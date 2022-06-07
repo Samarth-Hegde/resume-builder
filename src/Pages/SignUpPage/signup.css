@@ -1,0 +1,24 @@
+.img-container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.cred-container {
+  width: 50vw;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ls-container {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+}
+
+.img {
+  width: 50vw;
+  height: 100%;
+}
